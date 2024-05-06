@@ -19,7 +19,7 @@ namespace wmu_demo1
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            //const jebac murzynow
+            //const jebac murzynowdsdf sd fsd
         }
     }
 }
